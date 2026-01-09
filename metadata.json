@@ -1,0 +1,8 @@
+
+{
+  "name": "Vitality Wellness Dashboard",
+  "description": "A comprehensive health and wellness tracking application featuring activity monitoring, nutrition logging, sleep analysis, and AI-powered health insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
